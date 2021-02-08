@@ -1,6 +1,6 @@
 
 # Daisy X (A telegram Bot Project)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-SHRLCK/Daisy-X.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-SHRLCK/Xneeva.git)
 
 ## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
 
